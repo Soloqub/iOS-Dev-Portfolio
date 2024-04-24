@@ -15,11 +15,11 @@
 **🔨Технологический стэк: Swift, UIKit, MVC, CoreData, Storyboards&Xib, [Google Places API (REST API)](https://developers.google.com/maps/documentation/places/ios-sdk), [Google Maps](https://github.com/googlemaps/ios-maps-sdk)**
 
 <p float="left">
-<img src="Resources/Fabrics/main.jpg" alt="" width="160"/>
-<img src="Resources/Fabrics/calculator.jpg" alt="" width="160"/>
-<img src="Resources/Fabrics/calculation_result.jpg" alt="" width="160"/>
-<img src="Resources/Fabrics/catalog.jpg" alt="" width="160"/>
-<img src="Resources/Fabrics/shops.jpg" alt="" width="160"/>
+<img src="Resources/Fabrics/main.jpg" alt="" width="20%"/>
+<img src="Resources/Fabrics/calculator.jpg" alt="" width="20%"/>
+<img src="Resources/Fabrics/calculation_result.jpg" alt="" width="20%"/>
+<img src="Resources/Fabrics/catalog.jpg" alt="" width="20%"/>
+<img src="Resources/Fabrics/shops.jpg" alt="" width="20%"/>
 </p>
 
 ## [Dental Plan Pro](https://apps.apple.com/ru/app/dental-plan-pro/id1471044094)
@@ -31,6 +31,8 @@
 **🪕Роли в проекте: Разработчик, Аналитик**
 
 **🔨Технологический стэк: Swift, UIKit, MVVM, [RealmDB](https://github.com/realm/realm-swift), [PinLayout](https://github.com/layoutBox/PinLayout)&[FlexLayout](https://github.com/layoutBox/FlexLayout), StoreKit, [Apphud](https://github.com/apphud/ApphudSDK), [SwiftLint](https://github.com/realm/SwiftLint), [XCoordinator](https://github.com/QuickBirdEng/XCoordinator), DI, Firebase Analytics, Push Notifications, Unit Tests, Генерация PDF**
+
+
 
 ## [Porotherm Calculator](https://apps.apple.com/ru/app/porotherm-calc/id1584639021)
 
