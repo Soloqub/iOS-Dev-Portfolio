@@ -12,7 +12,7 @@
 
 **🔨Технологический стэк: Swift, UIKit, MVC, CoreData, Storyboards&Xib, [Google Places API (REST API)](https://developers.google.com/maps/documentation/places/ios-sdk), [Google Maps](https://github.com/googlemaps/ios-maps-sdk)**
 
-![](Resources/main.jpg)
+<img src="Resources/main.jpg" alt="" width="100"/>
 
 ## [Dental Plan Pro](https://apps.apple.com/ru/app/dental-plan-pro/id1471044094)
 Мобильное приложение для стоматологов. Позволяет быстро составить смету лечения пациента, пока он ещё сидит в кресле. :)
