@@ -32,6 +32,14 @@
 
 **🔨Технологический стэк: Swift, UIKit, MVVM, [RealmDB](https://github.com/realm/realm-swift), [PinLayout](https://github.com/layoutBox/PinLayout)&[FlexLayout](https://github.com/layoutBox/FlexLayout), StoreKit, [Apphud](https://github.com/apphud/ApphudSDK), [SwiftLint](https://github.com/realm/SwiftLint), [XCoordinator](https://github.com/QuickBirdEng/XCoordinator), DI, Firebase Analytics, Push Notifications, Unit Tests, Генерация PDF**
 
+<p float="left">
+<img src="Resources/Dental Plan/plan.png" alt="" width="18%"/>
+<img src="Resources/Dental Plan/teeth_select.png" alt="" width="18%"/>
+<img src="Resources/Dental Plan/calculation.png" alt="" width="18%"/>
+<img src="Resources/Dental Plan/add_discount.png" alt="" width="18%"/>
+<img src="Resources/Dental Plan/pdf_preview.png" alt="" width="18%"/>
+</p>
+
 ## [Porotherm Calculator](https://apps.apple.com/ru/app/porotherm-calc/id1584639021)
 
 Cтроительный калькулятор Porotherm. Используя эту программу, вы сможете выбрать такую конструкцию стены из керамических блоков, которая будет наиболее полно удовлетворять требованиям вашего региона по сопротивлению теплопередаче, чтобы в доме круглогодично было тепло и комфортно.
@@ -40,6 +48,13 @@ Cтроительный калькулятор Porotherm. Используя э�
 **🪕Роли в проекте: Разработчик**
 
 **🔨Технологический стэк: Swift, SwiftUI, Combine, MVVM, [RealmDB](https://github.com/realm/realm-swift), REST API, SwiftLint, [Stinsen](https://github.com/rundfunk47/stinsen)(Coordinator), [Resolver](https://github.com/hmlongco/Resolver)(DI), Firebase Analytics, Unit Tests**
+
+<p float="left">
+<img src="Resources/Porotherm Calc/calculator.png" alt="" width="18%"/>
+<img src="Resources/Porotherm Calc/advice.png" alt="" width="18%"/>
+<img src="Resources/Porotherm Calc/result.png" alt="" width="18%"/>
+<img src="Resources/Porotherm Calc/materials.png" alt="" width="18%"/>
+</p>
 
 ## [+1Город](https://apps.apple.com/ru/app/1%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%8D%D0%BA%D0%BE-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D0%B8-%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80/id1505256876)
 
