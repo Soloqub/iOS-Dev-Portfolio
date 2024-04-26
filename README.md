@@ -56,7 +56,7 @@ Cтроительный калькулятор Porotherm. Используя э�
 <img src="Resources/Porotherm Calc/materials.png" alt="" width="18%"/>
 </p>
 
-## [+1Город](https://apps.apple.com/ru/app/1%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%8D%D0%BA%D0%BE-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D0%B8-%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80/id1505256876)
+## https://apps.apple.com/ru/app/1%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%8D%D0%BA%D0%BE-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D0%B8-%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80/id1505256876
 
 +1Город — это интерактивный помощник, который позволяет быстро и просто найти социальные и экологические сервисы в любой точке России.
 В одном приложении собраны полезные городские сервисы и мероприятия, которые помогают вести ответственный образ жизни.
@@ -64,3 +64,11 @@ Cтроительный калькулятор Porotherm. Используя э�
 **🪕Роли в проекте: Разработчик**
 
 **🔨Технологический стэк: Swift, UIKit, MVVM, [RealmDB](https://github.com/realm/realm-swift), [PinLayout](https://github.com/layoutBox/PinLayout)& [FlexLayout](https://github.com/layoutBox/FlexLayout), REST API, [Google Maps](https://github.com/googlemaps/ios-maps-sdk), SwiftLint, [XCoordinator](https://github.com/QuickBirdEng/XCoordinator), [Resolver](https://github.com/hmlongco/Resolver)(DI), Firebase Analytics, Push Notifications, Unit Tests**
+
+<p float="left">
+<img src="Resources/Gorod/map.png" alt="" width="18%"/>
+<img src="Resources/Gorod/list.png" alt="" width="18%"/>
+<img src="Resources/Gorod/description.png" alt="" width="18%"/>
+<img src="Resources/Gorod/prize.png" alt="" width="18%"/>
+<img src="Resources/Gorod/service_func.png" alt="" width="18%"/>
+</p>
